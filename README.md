@@ -6,3 +6,7 @@ A simple program made in C++ using cuda, for a university homework, that creates
 
 - Add rendering directly on GPU
 - Change coloring
+
+### Sample image from animation:
+
+![sample fractal image](https://i.imgur.com/LvivkLy.jpg)
